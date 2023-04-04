@@ -1,0 +1,7 @@
+{
+  "name": "cidade",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
